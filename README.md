@@ -20,7 +20,6 @@
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="50px">
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="50px">
 <br>
-<img src="https://seeklogo.com/images/M/microsoft-power-platform-logo-4E514E7575-seeklogo.com.png" alt="power platform" width="50px">
 <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="power apps" width="50px">
 <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/PowerAutomate-2020-icon-1024x1024.png" alt="power automate" width="50px">
 </div>
